@@ -1,0 +1,12 @@
+{
+  "name": "tarai",
+  "version": "1.0.0",
+  "description": "tarai function music generator for Max8",
+  "main": "tarai.js",
+  "scripts": {
+  },
+  "author": "aike",
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
