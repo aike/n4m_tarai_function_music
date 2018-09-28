@@ -1,10 +1,10 @@
 N4M Tarai Function Music
 ====
 
-## What's this
+## What's This
 
-Tarai Function Music Language implementation for Max8/Node.js
-https://aikelab.net/tarai/
+Tarai Function Music Language implementation for Max8/Node.js  
+https://aikelab.net/tarai/  
 https://github.com/aike/tarai_language
 
 ## Credit
